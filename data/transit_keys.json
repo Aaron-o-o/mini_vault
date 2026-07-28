@@ -1,0 +1,24 @@
+{
+  "nvbphuc23@clc.fitus.edu.vn|app-key": {
+    "key_name": "app-key",
+    "owner_email": "nvbphuc23@clc.fitus.edu.vn",
+    "key_usage": "ENCRYPT_DECRYPT",
+    "encrypted_key_material_b64": "lmWfSvARFz4sFWwAjs0yy5AICnd4KpHQZSND+4N8K1lzGfT8YyhsSbqnla63XJFE",
+    "encrypted_key_nonce_b64": "luKpPSLVAkPLv69C",
+    "signing_algorithm": null,
+    "public_key_b64": null,
+    "created_at": "2026-07-25T07:34:37Z",
+    "updated_at": "2026-07-25T07:34:37Z"
+  },
+  "nvbphuc23@clc.fitus.edu.vn|app-sign": {
+    "key_name": "app-sign",
+    "owner_email": "nvbphuc23@clc.fitus.edu.vn",
+    "key_usage": "SIGN_VERIFY",
+    "encrypted_private_key_b64": "9qG4wqBmn2zI1HBCHTPZO68g1AeIQyslRd58OgDyQZjlmeiZFra31QYekOkKjL2l",
+    "encrypted_key_nonce_b64": "rWtFZ04XUZk6f6gO",
+    "signing_algorithm": "ED25519",
+    "public_key_b64": "bCyLVUrwsRhkdPWkE1jOlvz+jqU4l5Yjmf1sRzUa6fI=",
+    "created_at": "2026-07-25T07:35:31Z",
+    "updated_at": "2026-07-25T07:35:31Z"
+  }
+}
